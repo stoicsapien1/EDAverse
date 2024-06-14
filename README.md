@@ -2,6 +2,11 @@
 
 Welcome to EDAverse, your one-stop solution for comprehensive data profiling and Exploratory Data Analysis (EDA). With EDAverse, you can quickly generate detailed reports without writing a single line of code.
 
+
+https://github.com/stoicsapien1/EDAverse/assets/92661893/27e5ff5b-01f1-4919-a4cd-99f414b1f4f8
+
+
+
 ## Features
 
 - **User-Friendly Interface**: Intuitive and easy-to-use interface powered by Streamlit.
