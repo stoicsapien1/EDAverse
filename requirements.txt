@@ -1,6 +1,6 @@
 streamlit
 pandas
-streamlit_pandas_profiling
-st_aggrid
+streamlit-pandas-profiling
+st-aggrid
 ydata-profiling
 Pillow
