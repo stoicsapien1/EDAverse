@@ -1,5 +1,6 @@
-pandas
-Pillow
 streamlit
+pandas
 streamlit_pandas_profiling
-ydata_profiling
+st_aggrid
+ydata-profiling
+Pillow
